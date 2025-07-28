@@ -15,19 +15,11 @@ jobs:
       - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
-<<<<<<< HEAD
         github_user_name: AlbertoMjr0
         outputs: |
           dist/github-contribution-grid-snake.svg?palette=github-dark
         color_snake: "#58a6ff"
         color_dots: "#21262d,#30363d,#0d1117,#161b22"
-=======
-          github_user_name: AlbertoMjr0
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-          color_snake: "#58a6ff"
-          color_dots: "#21262d,#30363d,#0d1117,#161b22"
->>>>>>> 816e34f261d9c816196ae2e20a4138bf47ff0494
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
