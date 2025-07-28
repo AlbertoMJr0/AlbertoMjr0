@@ -7,10 +7,10 @@
 ## 📊 Estatísticas GitHub
 
 <!-- Estatísticas de commits, PRs, etc -->
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlbertoMjr0&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlbertoMjr0&show_icons=true&theme=blueberry)
 
 <!-- Linguagens mais usadas -->
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoMjr0&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoMjr0&layout=compact&theme=blueberry)
 
 ---
 
